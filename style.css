@@ -24,12 +24,20 @@ h1{
     margin: 1em;
 }
 
+.color-green{
+    background-color: green;
+}
+
 .color-yellow {
     background-color: yellow;
 }
 
 .color-black {
     color: black;
+}
+
+.color-grey {
+    color: #E5E5E5;
 }
 
 #container {
